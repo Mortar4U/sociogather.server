@@ -19,7 +19,8 @@
     "spromise": "git://github.com/MiguelCastillo/spromise.git",
     "node-irc": "0.0.3",
     "nedb": "",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "underscore": ""
   },
   "engines": {
     "node": "0.10.x"
